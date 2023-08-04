@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Optimizers/FiniteDifferenceGradientDescent/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFiniteDifferenceGradientDescent-5.1.a"
+			],
+			"targetId" : "FiniteDifferenceGradientDescent::@5bf4494380c84067c86a",
+			"targetIndex" : 44,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Optimizers/FiniteDifferenceGradientDescent",
+		"source" : "Components/Optimizers/FiniteDifferenceGradientDescent"
+	}
+}

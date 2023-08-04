@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Interpolators/LinearInterpolator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libLinearInterpolator-5.1.a"
+			],
+			"targetId" : "LinearInterpolator::@4d5d35d2d4c17e2bbd76",
+			"targetIndex" : 55,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Interpolators/LinearInterpolator",
+		"source" : "Components/Interpolators/LinearInterpolator"
+	}
+}

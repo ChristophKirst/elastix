@@ -1,0 +1,185 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"elastix_export_target"
+		],
+		"files" : 
+		[
+			"Core/CMakeLists.txt",
+			"CMake/elastixExportTarget.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 161,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 162,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 6
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 269,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 278,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 285,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Development",
+			"destination" : "/usr/local/include/Core",
+			"paths" : 
+			[
+				"cmake-build-default/Core/elxVersionMacros.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libelxCore-5.1.a"
+			],
+			"targetId" : "elxCore::@94795ff35dabbbd3a8ca",
+			"targetIndex" : 116,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libelxCommon-5.1.a"
+			],
+			"targetId" : "elxCommon::@13b50f4fff9a3833e1fc",
+			"targetIndex" : 114,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libparam-5.1.a"
+			],
+			"targetId" : "param::@ed20ed4d1dcefc0e18f8",
+			"targetIndex" : 138,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Executables",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/elastix"
+			],
+			"targetId" : "elastix_exe::@94795ff35dabbbd3a8ca",
+			"targetIndex" : 112,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Executables",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/transformix"
+			],
+			"targetId" : "transformix_exe::@94795ff35dabbbd3a8ca",
+			"targetIndex" : 139,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Development",
+			"destination" : "include",
+			"paths" : 
+			[
+				"Common",
+				"Core",
+				"Components"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Development",
+			"destination" : "include",
+			"paths" : 
+			[
+				"cmake-build-default/elxInstallComponentFunctionCalls.h",
+				"cmake-build-default/elxInstallComponentFunctionDeclarations.h",
+				"cmake-build-default/elxSupportedImageTypes.h",
+				"cmake-build-default/ITKFactoryRegistration/itkImageIOFactoryRegisterManager.h",
+				"cmake-build-default/ITKFactoryRegistration/itkTransformIOFactoryRegisterManager.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Core",
+		"source" : "Core"
+	}
+}

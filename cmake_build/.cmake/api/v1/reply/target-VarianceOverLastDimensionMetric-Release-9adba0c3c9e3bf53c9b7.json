@@ -1,0 +1,803 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/libVarianceOverLastDimensionMetric-5.1.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"ADD_ELXCOMPONENT",
+			"install",
+			"elastix_export_target",
+			"target_link_libraries",
+			"add_definitions",
+			"set_property",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Metrics/VarianceOverLastDimension/CMakeLists.txt",
+			"CMake/elastixExportTarget.cmake",
+			"CMakeLists.txt",
+			"/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/UseITK.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 611,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 29,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 129,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 138,
+				"parent" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 68,
+				"parent" : 4
+			},
+			{
+				"file" : 4,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 62,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 62,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 62,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 62,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 70,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 38,
+				"parent" : 10
+			},
+			{
+				"command" : 8,
+				"file" : 3,
+				"line" : 311,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "  -msse2 -fopenmp -O3 -DNDEBUG -std=c++17 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "ELASTIX_USE_OPENMP"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ITK_FFTIMAGEFILTERINIT_FACTORY_REGISTER_MANAGER"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "ITK_IMAGEIO_FACTORY_REGISTER_MANAGER"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "ITK_MESHIO_FACTORY_REGISTER_MANAGER"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "ITK_TRANSFORMIO_FACTORY_REGISTER_MANAGER"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 15,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/cmake-build-default/ITKFactoryRegistration"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshVTK/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshOFF/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshGifti/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshFreeSurfer/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshBYU/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/Mesh/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TransformMatlab/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TransformInsightLegacy/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TransformHDF5/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/VTK/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/Stimulate/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/PNG/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/NRRD/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/NIFTI/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MRC/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MINC/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TIFF/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/LSM/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/JPEG2000/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/JPEG/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/HDF5/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/GIPL/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/IPL/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/GE/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/GDCM/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/Bruker/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/BioRad/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/BMP/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/DoubleConversion/src/double-conversion"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/DoubleConversion/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/TestKernel/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageFeature/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Registration/Common/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Numerics/Optimizers/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/XML/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TransformFactory/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/TransformBase/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/Meta/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshOBJ/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Segmentation/Voronoi/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/QuadEdgeMesh/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/Mesh/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/MeshBase/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/IO/ImageBase/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/IO/ImageBase"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageGradient/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/Expat/src/expat"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/Expat/src/expat"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/DataStructureAndEncodingDefinition"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/MessageExchangeDefinition"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/InformationObjectDefinition"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/Common"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/DataDictionary"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/GDCM/src/gdcm/Source/MediaStorageAndFileFormat"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/GDCM/src/gdcm/Source/Common"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/GDCM"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/FiniteDifference/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/CurvatureFlow/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Numerics/NarrowBand/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Segmentation/ConnectedComponents/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/MathematicalMorphology/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageLabel/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/LabelMap/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/BinaryMathematicalMorphology/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/DistanceMap/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageSources/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/Thresholding/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/FFT/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/Convolution/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/Smoothing/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/Path/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/ZLIB/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/ZLIB/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/MetaIO/src/MetaIO/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/SpatialObjects/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageCompose/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageStatistics/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageIntensity/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageFilterBase/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/Transform/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/Netlib"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Numerics/Statistics/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/ImageAdaptors/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/ImageFunction/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/ImageGrid/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Filtering/DisplacementField/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/VNL/src/vxl/core"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/VNL/src/vxl/vcl"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/VNL/src/vxl/v3p/netlib"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/VNL/src/vxl/core"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/Eigen3/src"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/Core/Common/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/Core/Common"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/CostFunctions"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/ImageSamplers"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/LineSearchOptimizers"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/ParameterFileParser"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/Transforms"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Common/MevisDicomTiff"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core/Install"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core/Kernel"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core/ComponentBaseClasses"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core/Configuration"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Core/Main"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/FixedImagePyramids"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/ImageSamplers"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Interpolators"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Metrics"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/MovingImagePyramids"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Optimizers"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Registrations"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/ResampleInterpolators"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Resamplers"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/Components/Transforms"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/cmake-build-default"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/ZLIB/src/itkzlib-ng"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/VNL/src/vxl/vcl"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/VNL/src/vxl/v3p/netlib"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/KWSys/src"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/Eigen3/src/itkeigen/.."
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/VNL/src/vxl/core/vnl"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/Modules/ThirdParty/VNL/src/vxl/core/vnl"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/Modules/ThirdParty/ZLIB/src/itkzlib-ng"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					7,
+					7
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 7,
+			"id" : "elxCommon::@13b50f4fff9a3833e1fc"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "param::@ed20ed4d1dcefc0e18f8"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "elxCore::@94795ff35dabbbd3a8ca"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Metrics"
+	},
+	"id" : "VarianceOverLastDimensionMetric::@ae93243963a8333b3cee",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 6,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"name" : "VarianceOverLastDimensionMetric",
+	"nameOnDisk" : "libVarianceOverLastDimensionMetric-5.1.a",
+	"paths" : 
+	{
+		"build" : "Components/Metrics/VarianceOverLastDimension",
+		"source" : "Components/Metrics/VarianceOverLastDimension"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"path" : "Components/Metrics/VarianceOverLastDimension/elxVarianceOverLastDimensionMetric.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "Components/Metrics/VarianceOverLastDimension/elxVarianceOverLastDimensionMetric.hxx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "Components/Metrics/VarianceOverLastDimension/elxVarianceOverLastDimensionMetric.cxx",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"path" : "Components/Metrics/VarianceOverLastDimension/itkVarianceOverLastDimensionImageMetric.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "Components/Metrics/VarianceOverLastDimension/itkVarianceOverLastDimensionImageMetric.hxx",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

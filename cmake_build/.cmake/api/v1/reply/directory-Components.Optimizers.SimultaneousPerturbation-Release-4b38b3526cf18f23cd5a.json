@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Optimizers/SimultaneousPerturbation/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSimultaneousPerturbation-5.1.a"
+			],
+			"targetId" : "SimultaneousPerturbation::@909e2c4032a52666e7f5",
+			"targetIndex" : 100,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Optimizers/SimultaneousPerturbation",
+		"source" : "Components/Optimizers/SimultaneousPerturbation"
+	}
+}

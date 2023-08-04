@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Transforms/AdvancedBSplineTransform/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedBSplineTransform-5.1.a"
+			],
+			"targetId" : "AdvancedBSplineTransform::@a718a227eba858aec6f8",
+			"targetIndex" : 3,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Transforms/AdvancedBSplineTransform",
+		"source" : "Components/Transforms/AdvancedBSplineTransform"
+	}
+}

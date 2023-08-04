@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Transforms/BSplineStackTransform/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineStackTransform-5.1.a"
+			],
+			"targetId" : "BSplineStackTransform::@be90eadb3ccd0aaa042b",
+			"targetIndex" : 15,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Transforms/BSplineStackTransform",
+		"source" : "Components/Transforms/BSplineStackTransform"
+	}
+}

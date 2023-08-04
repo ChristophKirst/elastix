@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT",
+			"elastix_export_target"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Metrics/KNNGraphAlphaMutualInformation/CMakeLists.txt",
+			"CMake/elastixExportTarget.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 39,
+				"parent" : 5
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libKNNGraphAlphaMutualInformationMetric-5.1.a"
+			],
+			"targetId" : "KNNGraphAlphaMutualInformationMetric::@69e5f478192f4fdd17fc",
+			"targetIndex" : 53,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libKNNlib-5.1.a"
+			],
+			"targetId" : "KNNlib::@74338eabdf92ebb54dd1",
+			"targetIndex" : 54,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libANNlib-5.1.so.1"
+			],
+			"targetId" : "ANNlib::@35692bed525128e12118",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libANNlib-5.1.so"
+			],
+			"targetId" : "ANNlib::@35692bed525128e12118",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Metrics/KNNGraphAlphaMutualInformation",
+		"source" : "Components/Metrics/KNNGraphAlphaMutualInformation"
+	}
+}

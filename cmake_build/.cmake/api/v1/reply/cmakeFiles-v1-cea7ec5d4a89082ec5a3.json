@@ -1,0 +1,1990 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-default/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/HP-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/LCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SDCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SunPro-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XL-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-default/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XL-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-default/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-default/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-default/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"path" : "CTestConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CTestTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/DartConfiguration.tcl.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/ITKModuleAPI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDoubleConversion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKEigen3.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKInternalEigen3-build/ITKInternalEigen3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKInternalEigen3-build/ITKInternalEigen3Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/ITKInternalEigen3-build/ITKInternalEigen3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKKWSys.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVNL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVNLInstantiation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKCurvatureFlow.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageAdaptors.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKNetlib.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKTransform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageGrid.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKFFT.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOImageBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOBMP.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKExpat.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKZLIB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOGIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKQuadEdgeMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVoronoi.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshBYU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshFreeSurfer.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKNIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshGifti.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshOBJ.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshOFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeshVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMetaIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMeta.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIONIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKNrrdIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIONRRD.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKTestKernel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageCompose.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKPath.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageIntensity.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageLabel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKLabelMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKConnectedComponents.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKBinaryMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKNarrowBand.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDistanceMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKFastMarching.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageCompare.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKConvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageSources.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageGradient.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageFeature.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKOptimizers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKSignedDistanceFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKLevelSets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKAntiAlias.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKPolynomials.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKBiasCorrection.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKColormap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDICOMParser.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDeconvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDeformableMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDenoising.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDiffusionTensorImage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKDisplacementField.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKEigen.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPURegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKRegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGPUThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKGoogleTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOBioRad.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOBruker.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOCSV.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOGE.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOSiemens.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKOpenJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOJPEG2000.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOLSM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOMRC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIORAW.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOXML.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOStimulate.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKTransformFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOTransformBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOTransformHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOTransformInsightLegacy.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIOTransformMatlab.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageFrequency.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageFusion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKImageNoise.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKIntegratedTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKKLMRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKLabelVoting.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMarkovRandomFieldsClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKQuadEdgeMeshFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKSpatialFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKWatersheds.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKLIBLBFGS.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKLevelSetsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKOptimizersv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKMetricsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKRegistrationMethodsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKSuperPixel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVideoCore.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVideoIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/build/lib/cmake/ITK-5.4/Modules/ITKVideoFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/ITKFactoryRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/UseITK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/ITKInitializeCXXStandard.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/itkFFTImageFilterInitFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/itkMeshIOFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/itkImageIOFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/SuperElastix/ITK/CMake/itkTransformIOFactoryRegisterManager.h.in"
+		},
+		{
+			"path" : "CMake/elastixVersion.cmake"
+		},
+		{
+			"path" : "CMake/elastixExportTarget.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindOpenMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "dox/example"
+		},
+		{
+			"path" : "dox/exampleinput/fixed.mhd"
+		},
+		{
+			"path" : "dox/exampleinput/fixed.raw"
+		},
+		{
+			"path" : "dox/exampleinput/mask_fixed.mhd"
+		},
+		{
+			"path" : "dox/exampleinput/mask_fixed.raw"
+		},
+		{
+			"path" : "dox/exampleinput/mask_moving.mhd"
+		},
+		{
+			"path" : "dox/exampleinput/mask_moving.raw"
+		},
+		{
+			"path" : "dox/exampleinput/moving.mhd"
+		},
+		{
+			"path" : "dox/exampleinput/moving.raw"
+		},
+		{
+			"path" : "dox/exampleinput/parameters_Affine.txt"
+		},
+		{
+			"path" : "dox/exampleinput/parameters_BSpline.txt"
+		},
+		{
+			"path" : "dox/exampleinput/parameters_Rigid.txt"
+		},
+		{
+			"path" : "dox/exampleinput/parameters_Translation.txt"
+		},
+		{
+			"path" : "dox/exampleinput/solution_deformedmovingimage.mhd"
+		},
+		{
+			"path" : "dox/exampleinput/solution_deformedmovingimage.raw"
+		},
+		{
+			"path" : "ElastixConfig.cmake.in"
+		},
+		{
+			"path" : "ElastixConfig.cmake.in"
+		},
+		{
+			"path" : "ElastixConfigVersion.cmake.in"
+		},
+		{
+			"path" : "UseElastix.cmake.in"
+		},
+		{
+			"path" : "Common/CMakeLists.txt"
+		},
+		{
+			"path" : "Common/ParameterFileParser/CMakeLists.txt"
+		},
+		{
+			"path" : "Common/MevisDicomTiff/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"path" : "Components/FixedImagePyramids/FixedGenericPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/FixedImagePyramids/FixedRecursivePyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/FixedImagePyramids/FixedShrinkingPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/FixedImagePyramids/FixedSmoothingPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/FixedImagePyramids/OpenCLFixedGenericPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/Full/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/Grid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/MultInputRandomCoordinate/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/Random/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/RandomCoordinate/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ImageSamplers/RandomSparseMask/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/BSplineInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/BSplineInterpolatorFloat/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/LinearInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/NearestNeighborInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/RayCastInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Interpolators/ReducedDimensionBSplineInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/AdvancedKappaStatistic/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/AdvancedMattesMutualInformation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/AdvancedMeanSquares/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/AdvancedNormalizedCorrelation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/BendingEnergyPenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/CorrespondingPointsEuclideanDistanceMetric/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/DisplacementMagnitudePenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/DistancePreservingRigidityPenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/GradientDifference/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/KNNGraphAlphaMutualInformation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/KNNGraphAlphaMutualInformation/KNN/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/KNNGraphAlphaMutualInformation/KNN/ann_1.1/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/KNNGraphAlphaMutualInformation/KNN/ann_1.1/include/ANN/ANN.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/GenerateExportHeader.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/exportheader.cmake.in"
+		},
+		{
+			"path" : "Components/Metrics/MissingStructurePenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/NormalizedGradientCorrelation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/NormalizedMutualInformation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/PCAMetric/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/PCAMetric2/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/PatternIntensity/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/PolydataDummyPenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/RigidityPenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/StatisticalShapePenalty/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/SumOfPairwiseCorrelationsMetric/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/SumSquaredTissueVolumeDifferenceMetric/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Metrics/VarianceOverLastDimension/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/MovingImagePyramids/MovingGenericPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/MovingImagePyramids/MovingRecursivePyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/MovingImagePyramids/MovingShrinkingPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/MovingImagePyramids/MovingSmoothingPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/MovingImagePyramids/OpenCLMovingGenericPyramid/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/AdaGrad/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/AdaptiveStochasticGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/AdaptiveStochasticLBFGS/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/AdaptiveStochasticVarianceReducedGradient/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/CMAEvolutionStrategy/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/ConjugateGradient/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/ConjugateGradientFRPR/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/FiniteDifferenceGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/FullSearch/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/Powell/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/PreconditionedGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/PreconditionedStochasticGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/QuasiNewtonLBFGS/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/RSGDEachParameterApart/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/RegularStepGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/Simplex/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/SimultaneousPerturbation/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Optimizers/StandardGradientDescent/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Registrations/MultiMetricMultiResolutionRegistration/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Registrations/MultiResolutionRegistration/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Registrations/MultiResolutionRegistrationWithFeatures/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/BSplineResampleInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/BSplineResampleInterpolatorFloat/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/LinearResampleInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/NearestNeighborResampleInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/RDBSplineResampleInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/ResampleInterpolators/RayCastResampleInterpolator/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Resamplers/DefaultResampler/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Resamplers/OpenCLResampler/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/AdvancedAffineTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/AdvancedBSplineTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/AffineDTITransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/AffineLogStackTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/AffineLogTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/BSplineDeformableTransformWithDiffusion/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/BSplineStackTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/DeformationFieldTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/EulerStackTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/EulerTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/MultiBSplineTransformWithNormal/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/RecursiveBSplineTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/SimilarityTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/SplineKernelTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/TranslationStackTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/TranslationTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Components/Transforms/WeightedCombinationTransform/CMakeLists.txt"
+		},
+		{
+			"path" : "Core/CMakeLists.txt"
+		},
+		{
+			"path" : "Core/elxVersionMacros.h.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/alba.vieitesprado/Programs/CLion-2023.2/clion-2023.2/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Core/elxGitRevisionInfo.h.in"
+		},
+		{
+			"path" : "Core/Install/CMakeLists.txt"
+		},
+		{
+			"path" : "Core/Install/elxSupportedImageTypes.h.in"
+		},
+		{
+			"path" : "Testing/CMakeLists.txt"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.Kappa.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.MI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.MI.bspline.SGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.MI.bspline.SGD.002.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.MI.bspline.SGD.003.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.MI.bspline.SGD.004.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.affine.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.001a.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.001b.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.001c.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.001d.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.002.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.003.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.004.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.ASGD.004b.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.QN.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline.SGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.bspline_r.ASGD.001a.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.euler.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NC.translation.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.NMI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.SSD.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.SSD.bspline.ASGD.002.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.SSD.bspline.ASGD.003.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_3DCT_lung.example.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_BIGR.PCStefan_3DCT_lung.MI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_BIGR.PCStefan_3DCT_lung.NMI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_BIGR.cluster_3DCT_lung.MI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_BIGR.cluster_3DCT_lung.NMI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_LKEB-ELDB91_3DCT_lung.MI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_LKEB-ELDB91_3DCT_lung.NMI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_LKEB.MacMini_3DCT_lung.MI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Baselines/TransformParameters_LKEB.MacMini_3DCT_lung.NMI.bspline.ASGD.001.txt.in"
+		},
+		{
+			"path" : "Testing/Data/parameters.3D.NC.bspline.ASGD.004b.txt.in"
+		},
+		{
+			"path" : "Testing/PythonTests/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix/cmake-build-default",
+		"source" : "/home/alba.vieitesprado/Programs/SuperElastix/elastix"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

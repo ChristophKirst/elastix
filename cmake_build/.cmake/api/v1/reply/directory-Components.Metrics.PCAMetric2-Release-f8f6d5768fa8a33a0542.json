@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Metrics/PCAMetric2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPCAMetric2-5.1.a"
+			],
+			"targetId" : "PCAMetric2::@9e156bff71c8549b36d9",
+			"targetIndex" : 82,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Metrics/PCAMetric2",
+		"source" : "Components/Metrics/PCAMetric2"
+	}
+}

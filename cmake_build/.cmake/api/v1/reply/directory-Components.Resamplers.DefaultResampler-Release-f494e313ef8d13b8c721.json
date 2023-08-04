@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Resamplers/DefaultResampler/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDefaultResampler-5.1.a"
+			],
+			"targetId" : "DefaultResampler::@de6f145605effffbad23",
+			"targetIndex" : 29,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Resamplers/DefaultResampler",
+		"source" : "Components/Resamplers/DefaultResampler"
+	}
+}

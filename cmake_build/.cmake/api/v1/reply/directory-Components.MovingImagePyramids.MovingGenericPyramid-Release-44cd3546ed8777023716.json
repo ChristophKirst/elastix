@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/MovingImagePyramids/MovingGenericPyramid/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMovingGenericPyramid-5.1.a"
+			],
+			"targetId" : "MovingGenericPyramid::@e8e4bb3493cc858c53d2",
+			"targetIndex" : 58,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/MovingImagePyramids/MovingGenericPyramid",
+		"source" : "Components/MovingImagePyramids/MovingGenericPyramid"
+	}
+}

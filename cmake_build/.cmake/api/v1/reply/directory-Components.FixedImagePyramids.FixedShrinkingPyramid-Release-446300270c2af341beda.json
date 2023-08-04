@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/FixedImagePyramids/FixedShrinkingPyramid/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedShrinkingPyramid-5.1.a"
+			],
+			"targetId" : "FixedShrinkingPyramid::@b1a4bffdcb44faec9c4d",
+			"targetIndex" : 47,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/FixedImagePyramids/FixedShrinkingPyramid",
+		"source" : "Components/FixedImagePyramids/FixedShrinkingPyramid"
+	}
+}

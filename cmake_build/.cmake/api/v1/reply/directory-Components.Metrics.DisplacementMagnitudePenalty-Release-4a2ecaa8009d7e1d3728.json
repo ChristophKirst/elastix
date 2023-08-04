@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Metrics/DisplacementMagnitudePenalty/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDisplacementMagnitudePenalty-5.1.a"
+			],
+			"targetId" : "DisplacementMagnitudePenalty::@28f12a2101c39310248b",
+			"targetIndex" : 31,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Metrics/DisplacementMagnitudePenalty",
+		"source" : "Components/Metrics/DisplacementMagnitudePenalty"
+	}
+}

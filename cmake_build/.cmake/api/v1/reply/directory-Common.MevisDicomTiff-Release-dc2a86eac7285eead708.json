@@ -1,0 +1,71 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"elastix_export_target"
+		],
+		"files" : 
+		[
+			"Common/MevisDicomTiff/CMakeLists.txt",
+			"CMake/elastixExportTarget.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libmevisdcmtiff-5.1.a"
+			],
+			"targetId" : "mevisdcmtiff::@7e91d471710ed91af76f",
+			"targetIndex" : 137,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libmevisdcmtiff-5.1.a"
+			],
+			"targetId" : "mevisdcmtiff::@7e91d471710ed91af76f",
+			"targetIndex" : 137,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Common/MevisDicomTiff",
+		"source" : "Common/MevisDicomTiff"
+	}
+}

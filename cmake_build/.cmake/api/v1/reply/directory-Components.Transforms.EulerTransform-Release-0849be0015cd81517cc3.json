@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Transforms/EulerTransform/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libEulerTransformElastix-5.1.a"
+			],
+			"targetId" : "EulerTransformElastix::@3b06afd6ed0f73d63068",
+			"targetIndex" : 34,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Transforms/EulerTransform",
+		"source" : "Components/Transforms/EulerTransform"
+	}
+}

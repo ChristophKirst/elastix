@@ -1,0 +1,2443 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"elastix_export_target"
+		],
+		"files" : 
+		[
+			"CMake/elastixExportTarget.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 607,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 608,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 7
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 9
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 13
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 17
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 19
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 21
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 23
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 25
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 27
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 29
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 31
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 33
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 35
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 37
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 39
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 41
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 43
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 45
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 47
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 49
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 51
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 53
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 55
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 57
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 59
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 61
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 63
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 65
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 67
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 69
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 71
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 73
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 75
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 77
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 79
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 81
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 83
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 85
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 87
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 89
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 91
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 93
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 95
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 97
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 99
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 101
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 103
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 105
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 107
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 109
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 111
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 113
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 115
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 117
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 119
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 121
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 123
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 125
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 127
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 129
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 131
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 133
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 135
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 137
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 139
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 141
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 143
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 145
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 147
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 149
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 151
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 153
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 155
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 157
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 159
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 161
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 163
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 165
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 611,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 167
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 655,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 663,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libelastix-5.1.a"
+			],
+			"targetId" : "elastix_lib::@94795ff35dabbbd3a8ca",
+			"targetIndex" : 113,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libtransformix-5.1.a"
+			],
+			"targetId" : "transformix_lib::@94795ff35dabbbd3a8ca",
+			"targetIndex" : 140,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedGenericPyramid-5.1.a"
+			],
+			"targetId" : "FixedGenericPyramid::@711a1b3c845911e764f9",
+			"targetIndex" : 45,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedRecursivePyramid-5.1.a"
+			],
+			"targetId" : "FixedRecursivePyramid::@30cfb14c959b4c6fea21",
+			"targetIndex" : 46,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedShrinkingPyramid-5.1.a"
+			],
+			"targetId" : "FixedShrinkingPyramid::@b1a4bffdcb44faec9c4d",
+			"targetIndex" : 47,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedSmoothingPyramid-5.1.a"
+			],
+			"targetId" : "FixedSmoothingPyramid::@66ea70e786b86c3c20e5",
+			"targetIndex" : 48,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFullSampler-5.1.a"
+			],
+			"targetId" : "FullSampler::@b942fd2056aac5cc894f",
+			"targetIndex" : 49,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libGridSampler-5.1.a"
+			],
+			"targetId" : "GridSampler::@6b6237a9d0fc9055d944",
+			"targetIndex" : 52,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMultiInputRandomCoordinateSampler-5.1.a"
+			],
+			"targetId" : "MultiInputRandomCoordinateSampler::@c8c005b742dc44248748",
+			"targetIndex" : 63,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRandomSampler-5.1.a"
+			],
+			"targetId" : "RandomSampler::@b1719374e4f7bd6ecfad",
+			"targetIndex" : 90,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRandomCoordinateSampler-5.1.a"
+			],
+			"targetId" : "RandomCoordinateSampler::@147cfef7db2a8b99026f",
+			"targetIndex" : 89,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRandomSamplerSparseMask-5.1.a"
+			],
+			"targetId" : "RandomSamplerSparseMask::@69c4426b84faac12890f",
+			"targetIndex" : 91,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineInterpolator-5.1.a"
+			],
+			"targetId" : "BSplineInterpolator::@6769a37b88a36a6cc6f2",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineInterpolatorFloat-5.1.a"
+			],
+			"targetId" : "BSplineInterpolatorFloat::@86489f9e0fd1c1a2596a",
+			"targetIndex" : 12,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libLinearInterpolator-5.1.a"
+			],
+			"targetId" : "LinearInterpolator::@4d5d35d2d4c17e2bbd76",
+			"targetIndex" : 55,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libNearestNeighborInterpolator-5.1.a"
+			],
+			"targetId" : "NearestNeighborInterpolator::@7907265d83d70a1608ae",
+			"targetIndex" : 67,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRayCastInterpolator-5.1.a"
+			],
+			"targetId" : "RayCastInterpolator::@5d55b9e760b76e4fc976",
+			"targetIndex" : 92,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libReducedDimensionBSplineInterpolator-5.1.a"
+			],
+			"targetId" : "ReducedDimensionBSplineInterpolator::@589b8973a9f267ccd2a2",
+			"targetIndex" : 95,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedKappaStatisticMetric-5.1.a"
+			],
+			"targetId" : "AdvancedKappaStatisticMetric::@ffa4fe606119c48a396b",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedMattesMutualInformationMetric-5.1.a"
+			],
+			"targetId" : "AdvancedMattesMutualInformationMetric::@4ad5d8868f50f7a31e74",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedMeanSquaresMetric-5.1.a"
+			],
+			"targetId" : "AdvancedMeanSquaresMetric::@5802505835dc93c7a4a9",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedNormalizedCorrelationMetric-5.1.a"
+			],
+			"targetId" : "AdvancedNormalizedCorrelationMetric::@b8268eecf3ee0a65db73",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libTransformBendingEnergyPenalty-5.1.a"
+			],
+			"targetId" : "TransformBendingEnergyPenalty::@0266fe5ba286e1372cce",
+			"targetIndex" : 106,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libCorrespondingPointsEuclideanDistanceMetric-5.1.a"
+			],
+			"targetId" : "CorrespondingPointsEuclideanDistanceMetric::@d5ee7bca507303ba8b93",
+			"targetIndex" : 28,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDisplacementMagnitudePenalty-5.1.a"
+			],
+			"targetId" : "DisplacementMagnitudePenalty::@28f12a2101c39310248b",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDistancePreservingRigidityPenalty-5.1.a"
+			],
+			"targetId" : "DistancePreservingRigidityPenalty::@bfed5a0e62954c6a03fb",
+			"targetIndex" : 32,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libGradientDifferenceMetric-5.1.a"
+			],
+			"targetId" : "GradientDifferenceMetric::@d55b660d890316cd986d",
+			"targetIndex" : 51,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libKNNGraphAlphaMutualInformationMetric-5.1.a"
+			],
+			"targetId" : "KNNGraphAlphaMutualInformationMetric::@69e5f478192f4fdd17fc",
+			"targetIndex" : 53,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMissingStructurePenalty-5.1.a"
+			],
+			"targetId" : "MissingStructurePenalty::@672cfe65ef974751e252",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 60,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libNormalizedGradientCorrelationMetric-5.1.a"
+			],
+			"targetId" : "NormalizedGradientCorrelationMetric::@8163ace5ecbaf0641f65",
+			"targetIndex" : 79,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 62,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libNormalizedMutualInformationMetric-5.1.a"
+			],
+			"targetId" : "NormalizedMutualInformationMetric::@efe756900b045ff5c7ba",
+			"targetIndex" : 80,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 64,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPCAMetric-5.1.a"
+			],
+			"targetId" : "PCAMetric::@1573af454e282be1eb0b",
+			"targetIndex" : 81,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 66,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPCAMetric2-5.1.a"
+			],
+			"targetId" : "PCAMetric2::@9e156bff71c8549b36d9",
+			"targetIndex" : 82,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 68,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPatternIntensityMetric-5.1.a"
+			],
+			"targetId" : "PatternIntensityMetric::@3a2b4aaea90975e27b72",
+			"targetIndex" : 83,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 70,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPolydataDummyPenalty-5.1.a"
+			],
+			"targetId" : "PolydataDummyPenalty::@665a2b4cf85cea8bd379",
+			"targetIndex" : 84,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 72,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libTransformRigidityPenalty-5.1.a"
+			],
+			"targetId" : "TransformRigidityPenalty::@19992f93e7e9c8ec6862",
+			"targetIndex" : 107,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 74,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libStatisticalShapePenalty-5.1.a"
+			],
+			"targetId" : "StatisticalShapePenalty::@a60452416979af0a3262",
+			"targetIndex" : 103,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 76,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSumOfPairwiseCorrelationCoefficientsMetric-5.1.a"
+			],
+			"targetId" : "SumOfPairwiseCorrelationCoefficientsMetric::@19f5299c86c3d9491593",
+			"targetIndex" : 104,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 78,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSumSquaredTissueVolumeDifferenceMetric-5.1.a"
+			],
+			"targetId" : "SumSquaredTissueVolumeDifferenceMetric::@3961710d2a604ee3efd4",
+			"targetIndex" : 105,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 80,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libVarianceOverLastDimensionMetric-5.1.a"
+			],
+			"targetId" : "VarianceOverLastDimensionMetric::@ae93243963a8333b3cee",
+			"targetIndex" : 110,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 82,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMovingGenericPyramid-5.1.a"
+			],
+			"targetId" : "MovingGenericPyramid::@e8e4bb3493cc858c53d2",
+			"targetIndex" : 58,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 84,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMovingRecursivePyramid-5.1.a"
+			],
+			"targetId" : "MovingRecursivePyramid::@798659f6d77aec6de389",
+			"targetIndex" : 59,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 86,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMovingShrinkingPyramid-5.1.a"
+			],
+			"targetId" : "MovingShrinkingPyramid::@0905df43360e3d4bbd4c",
+			"targetIndex" : 60,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 88,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMovingSmoothingPyramid-5.1.a"
+			],
+			"targetId" : "MovingSmoothingPyramid::@e63693a4079d6c8b6da2",
+			"targetIndex" : 61,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 90,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdaptiveStochasticGradientDescent-5.1.a"
+			],
+			"targetId" : "AdaptiveStochasticGradientDescent::@2b8eedcf356dae7e6fbb",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 92,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libCMAEvolutionStrategy-5.1.a"
+			],
+			"targetId" : "CMAEvolutionStrategy::@b4865d0a8eb0cf40205a",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 94,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libConjugateGradient-5.1.a"
+			],
+			"targetId" : "ConjugateGradient::@3d86c61d05a2e59ad93d",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 96,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libConjugateGradientFRPR-5.1.a"
+			],
+			"targetId" : "ConjugateGradientFRPR::@ac2fa677cd6b365c5c0b",
+			"targetIndex" : 18,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 98,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFiniteDifferenceGradientDescent-5.1.a"
+			],
+			"targetId" : "FiniteDifferenceGradientDescent::@5bf4494380c84067c86a",
+			"targetIndex" : 44,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 100,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFullSearch-5.1.a"
+			],
+			"targetId" : "FullSearch::@fcc1b9bded07d8ae1ee0",
+			"targetIndex" : 50,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 102,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPowell-5.1.a"
+			],
+			"targetId" : "Powell::@2840bc4f842385b4db8d",
+			"targetIndex" : 85,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 104,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libPreconditionedStochasticGradientDescent-5.1.a"
+			],
+			"targetId" : "PreconditionedStochasticGradientDescent::@c4fe6fd53acfc5a50fec",
+			"targetIndex" : 86,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 106,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libQuasiNewtonLBFGS-5.1.a"
+			],
+			"targetId" : "QuasiNewtonLBFGS::@d73dac54ec04562b6908",
+			"targetIndex" : 87,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 108,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRSGDEachParameterApart-5.1.a"
+			],
+			"targetId" : "RSGDEachParameterApart::@1561ea46e8ba98d704e3",
+			"targetIndex" : 88,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 110,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRegularStepGradientDescent-5.1.a"
+			],
+			"targetId" : "RegularStepGradientDescent::@970132a5d613a60e81d6",
+			"targetIndex" : 97,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 112,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSimplex-5.1.a"
+			],
+			"targetId" : "Simplex::@37e65324fb356f5b1f40",
+			"targetIndex" : 99,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 114,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSimultaneousPerturbation-5.1.a"
+			],
+			"targetId" : "SimultaneousPerturbation::@909e2c4032a52666e7f5",
+			"targetIndex" : 100,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 116,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libStandardGradientDescent-5.1.a"
+			],
+			"targetId" : "StandardGradientDescent::@cfc9871be90579337bcb",
+			"targetIndex" : 102,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 118,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMultiMetricMultiResolutionRegistration-5.1.a"
+			],
+			"targetId" : "MultiMetricMultiResolutionRegistration::@e66a8ce4b64f23de1d00",
+			"targetIndex" : 64,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 120,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMultiResolutionRegistration-5.1.a"
+			],
+			"targetId" : "MultiResolutionRegistration::@ec7244b423c2dc72bad1",
+			"targetIndex" : 65,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 122,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMultiResolutionRegistrationWithFeatures-5.1.a"
+			],
+			"targetId" : "MultiResolutionRegistrationWithFeatures::@de72a5661f9bbebf71fa",
+			"targetIndex" : 66,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 124,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineResampleInterpolator-5.1.a"
+			],
+			"targetId" : "BSplineResampleInterpolator::@e6595516c4f266ef14fb",
+			"targetIndex" : 13,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 126,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineResampleInterpolatorFloat-5.1.a"
+			],
+			"targetId" : "BSplineResampleInterpolatorFloat::@0368283ff5949f889740",
+			"targetIndex" : 14,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 128,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libLinearResampleInterpolator-5.1.a"
+			],
+			"targetId" : "LinearResampleInterpolator::@c7e68ed786afa8847420",
+			"targetIndex" : 56,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 130,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libNearestNeighborResampleInterpolator-5.1.a"
+			],
+			"targetId" : "NearestNeighborResampleInterpolator::@17371e2fe357f9c2fed4",
+			"targetIndex" : 68,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 132,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libReducedDimensionBSplineResampleInterpolator-5.1.a"
+			],
+			"targetId" : "ReducedDimensionBSplineResampleInterpolator::@2e26d23c8fa1b7f41bfb",
+			"targetIndex" : 96,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 134,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRayCastResampleInterpolator-5.1.a"
+			],
+			"targetId" : "RayCastResampleInterpolator::@23882dc0a2b97aebe04b",
+			"targetIndex" : 93,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 136,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDefaultResampler-5.1.a"
+			],
+			"targetId" : "DefaultResampler::@de6f145605effffbad23",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 138,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedAffineTransformElastix-5.1.a"
+			],
+			"targetId" : "AdvancedAffineTransformElastix::@f45615400dfb350bc2cf",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 140,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAdvancedBSplineTransform-5.1.a"
+			],
+			"targetId" : "AdvancedBSplineTransform::@a718a227eba858aec6f8",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 142,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAffineDTITransformElastix-5.1.a"
+			],
+			"targetId" : "AffineDTITransformElastix::@15a691ac60f3f41d3905",
+			"targetIndex" : 8,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 144,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAffineLogStackTransform-5.1.a"
+			],
+			"targetId" : "AffineLogStackTransform::@950be5dd18cb12c16b94",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 146,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libAffineLogTransformElastix-5.1.a"
+			],
+			"targetId" : "AffineLogTransformElastix::@cb60f90bb8356fd703c2",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 148,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineStackTransform-5.1.a"
+			],
+			"targetId" : "BSplineStackTransform::@be90eadb3ccd0aaa042b",
+			"targetIndex" : 15,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 150,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libDeformationFieldTransform-5.1.a"
+			],
+			"targetId" : "DeformationFieldTransform::@6be29049ac3a6b979be3",
+			"targetIndex" : 30,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 152,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libEulerStackTransform-5.1.a"
+			],
+			"targetId" : "EulerStackTransform::@beb09928ab3d4abae9c7",
+			"targetIndex" : 33,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 154,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libEulerTransformElastix-5.1.a"
+			],
+			"targetId" : "EulerTransformElastix::@3b06afd6ed0f73d63068",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 156,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMultiBSplineTransformWithNormal-5.1.a"
+			],
+			"targetId" : "MultiBSplineTransformWithNormal::@2ac939286ceec3e02a2c",
+			"targetIndex" : 62,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 158,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRecursiveBSplineTransform-5.1.a"
+			],
+			"targetId" : "RecursiveBSplineTransform::@5e16803d2ebb11d59667",
+			"targetIndex" : 94,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 160,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSimilarityTransformElastix-5.1.a"
+			],
+			"targetId" : "SimilarityTransformElastix::@46663c3193e7542a953b",
+			"targetIndex" : 98,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 162,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libSplineKernelTransform-5.1.a"
+			],
+			"targetId" : "SplineKernelTransform::@afcd02e4bb1fbbbd6ab2",
+			"targetIndex" : 101,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 164,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libTranslationStackTransform-5.1.a"
+			],
+			"targetId" : "TranslationStackTransform::@b1498dee2391e9397176",
+			"targetIndex" : 108,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 166,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libTranslationTransformElastix-5.1.a"
+			],
+			"targetId" : "TranslationTransformElastix::@d9b65d982b06926079fd",
+			"targetIndex" : 109,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 168,
+			"component" : "Development",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libWeightedCombinationTransformElastix-5.1.a"
+			],
+			"targetId" : "WeightedCombinationTransformElastix::@8d06215945a328d27e79",
+			"targetIndex" : 111,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 169,
+			"component" : "Development",
+			"destination" : "lib/cmake/elastix",
+			"paths" : 
+			[
+				"cmake-build-default/CMakeFiles/ElastixConfig.cmake",
+				"cmake-build-default/ElastixConfigVersion.cmake",
+				"cmake-build-default/UseElastix.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 170,
+			"component" : "Development",
+			"destination" : "lib/cmake/elastix",
+			"exportName" : "ElastixTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "mevisdcmtiff::@7e91d471710ed91af76f",
+					"index" : 137
+				},
+				{
+					"id" : "KNNlib::@74338eabdf92ebb54dd1",
+					"index" : 54
+				},
+				{
+					"id" : "ANNlib::@35692bed525128e12118",
+					"index" : 0
+				},
+				{
+					"id" : "elxCore::@94795ff35dabbbd3a8ca",
+					"index" : 116
+				},
+				{
+					"id" : "elxCommon::@13b50f4fff9a3833e1fc",
+					"index" : 114
+				},
+				{
+					"id" : "param::@ed20ed4d1dcefc0e18f8",
+					"index" : 138
+				},
+				{
+					"id" : "elastix_lib::@94795ff35dabbbd3a8ca",
+					"index" : 113
+				},
+				{
+					"id" : "transformix_lib::@94795ff35dabbbd3a8ca",
+					"index" : 140
+				},
+				{
+					"id" : "FixedGenericPyramid::@711a1b3c845911e764f9",
+					"index" : 45
+				},
+				{
+					"id" : "FixedRecursivePyramid::@30cfb14c959b4c6fea21",
+					"index" : 46
+				},
+				{
+					"id" : "FixedShrinkingPyramid::@b1a4bffdcb44faec9c4d",
+					"index" : 47
+				},
+				{
+					"id" : "FixedSmoothingPyramid::@66ea70e786b86c3c20e5",
+					"index" : 48
+				},
+				{
+					"id" : "FullSampler::@b942fd2056aac5cc894f",
+					"index" : 49
+				},
+				{
+					"id" : "GridSampler::@6b6237a9d0fc9055d944",
+					"index" : 52
+				},
+				{
+					"id" : "MultiInputRandomCoordinateSampler::@c8c005b742dc44248748",
+					"index" : 63
+				},
+				{
+					"id" : "RandomSampler::@b1719374e4f7bd6ecfad",
+					"index" : 90
+				},
+				{
+					"id" : "RandomCoordinateSampler::@147cfef7db2a8b99026f",
+					"index" : 89
+				},
+				{
+					"id" : "RandomSamplerSparseMask::@69c4426b84faac12890f",
+					"index" : 91
+				},
+				{
+					"id" : "BSplineInterpolator::@6769a37b88a36a6cc6f2",
+					"index" : 11
+				},
+				{
+					"id" : "BSplineInterpolatorFloat::@86489f9e0fd1c1a2596a",
+					"index" : 12
+				},
+				{
+					"id" : "LinearInterpolator::@4d5d35d2d4c17e2bbd76",
+					"index" : 55
+				},
+				{
+					"id" : "NearestNeighborInterpolator::@7907265d83d70a1608ae",
+					"index" : 67
+				},
+				{
+					"id" : "RayCastInterpolator::@5d55b9e760b76e4fc976",
+					"index" : 92
+				},
+				{
+					"id" : "ReducedDimensionBSplineInterpolator::@589b8973a9f267ccd2a2",
+					"index" : 95
+				},
+				{
+					"id" : "AdvancedKappaStatisticMetric::@ffa4fe606119c48a396b",
+					"index" : 4
+				},
+				{
+					"id" : "AdvancedMattesMutualInformationMetric::@4ad5d8868f50f7a31e74",
+					"index" : 5
+				},
+				{
+					"id" : "AdvancedMeanSquaresMetric::@5802505835dc93c7a4a9",
+					"index" : 6
+				},
+				{
+					"id" : "AdvancedNormalizedCorrelationMetric::@b8268eecf3ee0a65db73",
+					"index" : 7
+				},
+				{
+					"id" : "TransformBendingEnergyPenalty::@0266fe5ba286e1372cce",
+					"index" : 106
+				},
+				{
+					"id" : "CorrespondingPointsEuclideanDistanceMetric::@d5ee7bca507303ba8b93",
+					"index" : 28
+				},
+				{
+					"id" : "DisplacementMagnitudePenalty::@28f12a2101c39310248b",
+					"index" : 31
+				},
+				{
+					"id" : "DistancePreservingRigidityPenalty::@bfed5a0e62954c6a03fb",
+					"index" : 32
+				},
+				{
+					"id" : "GradientDifferenceMetric::@d55b660d890316cd986d",
+					"index" : 51
+				},
+				{
+					"id" : "KNNGraphAlphaMutualInformationMetric::@69e5f478192f4fdd17fc",
+					"index" : 53
+				},
+				{
+					"id" : "MissingStructurePenalty::@672cfe65ef974751e252",
+					"index" : 57
+				},
+				{
+					"id" : "NormalizedGradientCorrelationMetric::@8163ace5ecbaf0641f65",
+					"index" : 79
+				},
+				{
+					"id" : "NormalizedMutualInformationMetric::@efe756900b045ff5c7ba",
+					"index" : 80
+				},
+				{
+					"id" : "PCAMetric::@1573af454e282be1eb0b",
+					"index" : 81
+				},
+				{
+					"id" : "PCAMetric2::@9e156bff71c8549b36d9",
+					"index" : 82
+				},
+				{
+					"id" : "PatternIntensityMetric::@3a2b4aaea90975e27b72",
+					"index" : 83
+				},
+				{
+					"id" : "PolydataDummyPenalty::@665a2b4cf85cea8bd379",
+					"index" : 84
+				},
+				{
+					"id" : "TransformRigidityPenalty::@19992f93e7e9c8ec6862",
+					"index" : 107
+				},
+				{
+					"id" : "StatisticalShapePenalty::@a60452416979af0a3262",
+					"index" : 103
+				},
+				{
+					"id" : "SumOfPairwiseCorrelationCoefficientsMetric::@19f5299c86c3d9491593",
+					"index" : 104
+				},
+				{
+					"id" : "SumSquaredTissueVolumeDifferenceMetric::@3961710d2a604ee3efd4",
+					"index" : 105
+				},
+				{
+					"id" : "VarianceOverLastDimensionMetric::@ae93243963a8333b3cee",
+					"index" : 110
+				},
+				{
+					"id" : "MovingGenericPyramid::@e8e4bb3493cc858c53d2",
+					"index" : 58
+				},
+				{
+					"id" : "MovingRecursivePyramid::@798659f6d77aec6de389",
+					"index" : 59
+				},
+				{
+					"id" : "MovingShrinkingPyramid::@0905df43360e3d4bbd4c",
+					"index" : 60
+				},
+				{
+					"id" : "MovingSmoothingPyramid::@e63693a4079d6c8b6da2",
+					"index" : 61
+				},
+				{
+					"id" : "AdaptiveStochasticGradientDescent::@2b8eedcf356dae7e6fbb",
+					"index" : 1
+				},
+				{
+					"id" : "CMAEvolutionStrategy::@b4865d0a8eb0cf40205a",
+					"index" : 16
+				},
+				{
+					"id" : "ConjugateGradient::@3d86c61d05a2e59ad93d",
+					"index" : 17
+				},
+				{
+					"id" : "ConjugateGradientFRPR::@ac2fa677cd6b365c5c0b",
+					"index" : 18
+				},
+				{
+					"id" : "FiniteDifferenceGradientDescent::@5bf4494380c84067c86a",
+					"index" : 44
+				},
+				{
+					"id" : "FullSearch::@fcc1b9bded07d8ae1ee0",
+					"index" : 50
+				},
+				{
+					"id" : "Powell::@2840bc4f842385b4db8d",
+					"index" : 85
+				},
+				{
+					"id" : "PreconditionedStochasticGradientDescent::@c4fe6fd53acfc5a50fec",
+					"index" : 86
+				},
+				{
+					"id" : "QuasiNewtonLBFGS::@d73dac54ec04562b6908",
+					"index" : 87
+				},
+				{
+					"id" : "RSGDEachParameterApart::@1561ea46e8ba98d704e3",
+					"index" : 88
+				},
+				{
+					"id" : "RegularStepGradientDescent::@970132a5d613a60e81d6",
+					"index" : 97
+				},
+				{
+					"id" : "Simplex::@37e65324fb356f5b1f40",
+					"index" : 99
+				},
+				{
+					"id" : "SimultaneousPerturbation::@909e2c4032a52666e7f5",
+					"index" : 100
+				},
+				{
+					"id" : "StandardGradientDescent::@cfc9871be90579337bcb",
+					"index" : 102
+				},
+				{
+					"id" : "MultiMetricMultiResolutionRegistration::@e66a8ce4b64f23de1d00",
+					"index" : 64
+				},
+				{
+					"id" : "MultiResolutionRegistration::@ec7244b423c2dc72bad1",
+					"index" : 65
+				},
+				{
+					"id" : "MultiResolutionRegistrationWithFeatures::@de72a5661f9bbebf71fa",
+					"index" : 66
+				},
+				{
+					"id" : "BSplineResampleInterpolator::@e6595516c4f266ef14fb",
+					"index" : 13
+				},
+				{
+					"id" : "BSplineResampleInterpolatorFloat::@0368283ff5949f889740",
+					"index" : 14
+				},
+				{
+					"id" : "LinearResampleInterpolator::@c7e68ed786afa8847420",
+					"index" : 56
+				},
+				{
+					"id" : "NearestNeighborResampleInterpolator::@17371e2fe357f9c2fed4",
+					"index" : 68
+				},
+				{
+					"id" : "ReducedDimensionBSplineResampleInterpolator::@2e26d23c8fa1b7f41bfb",
+					"index" : 96
+				},
+				{
+					"id" : "RayCastResampleInterpolator::@23882dc0a2b97aebe04b",
+					"index" : 93
+				},
+				{
+					"id" : "DefaultResampler::@de6f145605effffbad23",
+					"index" : 29
+				},
+				{
+					"id" : "AdvancedAffineTransformElastix::@f45615400dfb350bc2cf",
+					"index" : 2
+				},
+				{
+					"id" : "AdvancedBSplineTransform::@a718a227eba858aec6f8",
+					"index" : 3
+				},
+				{
+					"id" : "AffineDTITransformElastix::@15a691ac60f3f41d3905",
+					"index" : 8
+				},
+				{
+					"id" : "AffineLogStackTransform::@950be5dd18cb12c16b94",
+					"index" : 9
+				},
+				{
+					"id" : "AffineLogTransformElastix::@cb60f90bb8356fd703c2",
+					"index" : 10
+				},
+				{
+					"id" : "BSplineStackTransform::@be90eadb3ccd0aaa042b",
+					"index" : 15
+				},
+				{
+					"id" : "DeformationFieldTransform::@6be29049ac3a6b979be3",
+					"index" : 30
+				},
+				{
+					"id" : "EulerStackTransform::@beb09928ab3d4abae9c7",
+					"index" : 33
+				},
+				{
+					"id" : "EulerTransformElastix::@3b06afd6ed0f73d63068",
+					"index" : 34
+				},
+				{
+					"id" : "MultiBSplineTransformWithNormal::@2ac939286ceec3e02a2c",
+					"index" : 62
+				},
+				{
+					"id" : "RecursiveBSplineTransform::@5e16803d2ebb11d59667",
+					"index" : 94
+				},
+				{
+					"id" : "SimilarityTransformElastix::@46663c3193e7542a953b",
+					"index" : 98
+				},
+				{
+					"id" : "SplineKernelTransform::@afcd02e4bb1fbbbd6ab2",
+					"index" : 101
+				},
+				{
+					"id" : "TranslationStackTransform::@b1498dee2391e9397176",
+					"index" : 108
+				},
+				{
+					"id" : "TranslationTransformElastix::@d9b65d982b06926079fd",
+					"index" : 109
+				},
+				{
+					"id" : "WeightedCombinationTransformElastix::@8d06215945a328d27e79",
+					"index" : 111
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/2061617f5d44af15ce6370bec5cbbb4a/ElastixTargets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

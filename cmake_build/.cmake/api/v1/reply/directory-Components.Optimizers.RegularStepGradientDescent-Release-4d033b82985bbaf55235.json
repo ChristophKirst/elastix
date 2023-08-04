@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Optimizers/RegularStepGradientDescent/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libRegularStepGradientDescent-5.1.a"
+			],
+			"targetId" : "RegularStepGradientDescent::@970132a5d613a60e81d6",
+			"targetIndex" : 97,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Optimizers/RegularStepGradientDescent",
+		"source" : "Components/Optimizers/RegularStepGradientDescent"
+	}
+}

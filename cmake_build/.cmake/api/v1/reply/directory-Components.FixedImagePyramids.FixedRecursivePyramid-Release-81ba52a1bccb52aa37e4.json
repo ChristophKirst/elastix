@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/FixedImagePyramids/FixedRecursivePyramid/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libFixedRecursivePyramid-5.1.a"
+			],
+			"targetId" : "FixedRecursivePyramid::@30cfb14c959b4c6fea21",
+			"targetIndex" : 46,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/FixedImagePyramids/FixedRecursivePyramid",
+		"source" : "Components/FixedImagePyramids/FixedRecursivePyramid"
+	}
+}

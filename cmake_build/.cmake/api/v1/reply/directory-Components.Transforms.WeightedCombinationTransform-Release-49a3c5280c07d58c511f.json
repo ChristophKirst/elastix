@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Transforms/WeightedCombinationTransform/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libWeightedCombinationTransformElastix-5.1.a"
+			],
+			"targetId" : "WeightedCombinationTransformElastix::@8d06215945a328d27e79",
+			"targetIndex" : 111,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Transforms/WeightedCombinationTransform",
+		"source" : "Components/Transforms/WeightedCombinationTransform"
+	}
+}

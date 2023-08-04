@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Components/Metrics/KNNGraphAlphaMutualInformation/KNN/ann_1.1",
+		"source" : "Components/Metrics/KNNGraphAlphaMutualInformation/KNN/ann_1.1"
+	}
+}

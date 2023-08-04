@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/Metrics/MissingStructurePenalty/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libMissingStructurePenalty-5.1.a"
+			],
+			"targetId" : "MissingStructurePenalty::@672cfe65ef974751e252",
+			"targetIndex" : 57,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/Metrics/MissingStructurePenalty",
+		"source" : "Components/Metrics/MissingStructurePenalty"
+	}
+}

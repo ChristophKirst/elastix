@@ -1,0 +1,53 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"ADD_ELXCOMPONENT"
+		],
+		"files" : 
+		[
+			"Components/CMakeLists.txt",
+			"Components/ResampleInterpolators/BSplineResampleInterpolatorFloat/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 131,
+				"parent" : 1
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/libBSplineResampleInterpolatorFloat-5.1.a"
+			],
+			"targetId" : "BSplineResampleInterpolatorFloat::@0368283ff5949f889740",
+			"targetIndex" : 14,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Components/ResampleInterpolators/BSplineResampleInterpolatorFloat",
+		"source" : "Components/ResampleInterpolators/BSplineResampleInterpolatorFloat"
+	}
+}
